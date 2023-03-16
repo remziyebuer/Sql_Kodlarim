@@ -1,4 +1,4 @@
-/*============================= GROUP BY =====================================
+                                                                                                                   /*============================= GROUP BY =====================================
 
     GROUP BY cümleciği bir SELECT ifadesinde satırları, sutunların değerlerine 
     göre özet olarak GRUPLAMAK için kullanılır. 
