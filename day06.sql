@@ -49,7 +49,7 @@ select cinsiyet, round(avg(maas),1) as maas_ortalamasi from insan group by cinsi
 
 -- SORU04: insan tablosunu, ulke'lere göre ve sehir'lere göre gruplayarak listeleyiniz
 
-select ulke, sehir from insan group by ulke , sehir ;
+select ulke, sehir from insan group by ulke , sehir ;***** yazmak zorundasin selecte ne yazdi isen
 
 -- SORU05: ulke'lere göre ve sehir'lere göre çalışan sayısını listeleyiniz.
 
